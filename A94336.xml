@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Three speeches delivered at a common-hall, on Saturday the 28 of July, 1643. At the reading of a proclamation from the King: viz. I. By Edward Earl of Manchester, concerning the Tower of London. II. By John Pym Esq; by way of observation upon the said proclamation. III. By Henry Martin Colonell, concerning Sir William Waller, and what course is now to be taken. With a true copy of the proclamation aforesaid. Also, the deposition of Mr. Mayo, taken at Bridges in Flanders, Iuly 20. 1643. concerning contributions there made for the assistance of the papists in England. Imprimatur, John White.</title>
+            <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94336</idno>
+            <idno type="STC">Wing T1119</idno>
+            <idno type="STC">Thomason E63_8</idno>
+            <idno type="STC">ESTC R4372</idno>
+            <idno type="EEBO-CITATION">99872664</idno>
+            <idno type="PROQUEST">99872664</idno>
+            <idno type="VID">125110</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125110)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E63[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Three speeches delivered at a common-hall, on Saturday the 28 of July, 1643. At the reading of a proclamation from the King: viz. I. By Edward Earl of Manchester, concerning the Tower of London. II. By John Pym Esq; by way of observation upon the said proclamation. III. By Henry Martin Colonell, concerning Sir William Waller, and what course is now to be taken. With a true copy of the proclamation aforesaid. Also, the deposition of Mr. Mayo, taken at Bridges in Flanders, Iuly 20. 1643. concerning contributions there made for the assistance of the papists in England. Imprimatur, John White.</title>
+                  <author>Manchester, Edward Montagu, Earl of, 1602-1671.</author>
+                  <author>Mayo, Henry.</author>
+                  <author>Marten, Henry, 1602-1680.</author>
+                  <author>Pym, John, 1584-1643.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>13, 12-13, 13, 15-18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Peter Cole, and are to be sold at the Glove and Lyon neer the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 2. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The proclamation is dated 17 July, 19 Char.I [1643].</note>
+                  <note>A variant of the edition with "August 1" in imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:125110:1"/>
+            <head>Die Iovis 27. Iulii. 1643.</head>
+            <p>IT is this Day Ordered by the Lords in Par<g ref="char:EOLhyphen"/>liament, that M. <hi>Newcomen</hi> hath hereby thanks given him for the great paines he took in the Sermon he made at the Faſt, for the Aſſembly of Divines in the Abby Church, <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> on Friday the <hi>7. </hi> of this inſtant <hi>July.</hi> And he is hereby deſired to cauſe his ſaid Sermon to be forthwith printed and publiſhed.</p>
+            <signed>Jo. Brown Cleric. Parliamentorum.</signed>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:125110:1" rendition="simple:additions"/>
+            <p>THREE SPEECHES Delivered at a <hi>Common-Hall,</hi> On Saturday the 28 of July, 1643.</p>
+            <p>At the reading of a <hi>Proclamation</hi> from the KING: VIZ.
+<list>
+                  <item>I. By <hi>Edward</hi> Earl of <hi>Mancheſter,</hi> concerning the Tower of <hi>London.</hi>
+                  </item>
+                  <item>II. By <hi>John Pym</hi> 
+                     <abbr>Eſq</abbr> by way of Obſervation upon the ſaid <hi>Proclamation.</hi>
+                  </item>
+                  <item>III. By <hi>Henry Martin</hi> Colonell, concerning Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Waller,</hi> and what courſe is now to be taken.</item>
+               </list>
+            </p>
+            <p>With a true copy of the Proclamation aforeſaid.</p>
+            <p>Alſo, the Depoſition of Mr. <hi>Mayo,</hi> taken at <hi>Bridges</hi> in <hi>Flanders, Iuly</hi> 20. 1643. concerning Contributions there made for the Aſſiſtance of the Papiſts in <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>Imprimatur,</hi> JOHN WHITE.</p>
+            <p>London, Printed for <hi>Peter Cole,</hi> and are to be ſold at the Glove and Lyon neer the Royall-Exchange. <hi>Auguſt</hi> 2.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:125110:2"/>
+            <pb n="3" facs="tcp:125110:2"/>
+            <head>The Right Honourable, EDWARD Earl of <hi>Mancheſter's</hi> Speech:</head>
+            <p>MY Lord Maior, and you worthy Citizens of <hi>London,</hi> I am Commanded by the Houſes of Parliament, to expreſſe their thanks, and their acknowledgments to you, for your good affection and fidelity, which you have al<g ref="char:EOLhyphen"/>wayes expreſſed for the preſervation of the Parli<g ref="char:EOLhyphen"/>ament, and the Kingdom; particularly for that great care and readineſſe that you have ſhewed in ſending forth thoſe forces for the ſuppreſſing of that Tumultuous Inſurrection in <hi>Kent:</hi> It hath pleaſed God to bleſſe you with good ſucceſſe, and to you is the honour due, and to thoſe that have commanded thoſe forces in that happy exe<g ref="char:EOLhyphen"/>cution of it.</p>
+            <pb n="4" facs="tcp:125110:3"/>
+            <p>I am likewiſe Commanded by the Houſes of Parliament, to let you know that they will agree with you in all things, that ſhall be in order to the preſervation of this City, and of the King<g ref="char:EOLhyphen"/>dome; and that they may manifeſt and expreſſe their good opinion, and their truſt, &amp; confidence that they have in the City of <hi>London,</hi> in order to that, they have this day paſſed two Ordinances, The one for the putting into the power of my Lord Maior, and the Militia of the city of <hi>London,</hi> all thoſe forces that are within the lines of Com<g ref="char:EOLhyphen"/>munication here in <hi>London,</hi> and in thoſe Counties adjacent to it.</p>
+            <p>And they likewiſe have paſſed an Ordinance for the putting of the Tower of <hi>London</hi> into the power of my Lord Major, &amp; Sheriffs of <hi>London.</hi>
+            </p>
+            <p>They have likewiſe agreed, That all the Forces that ſhall be raiſed by the City of <hi>London,</hi> and are now under the Command of the <hi>Militia</hi> of the City of <hi>London,</hi> ſhall be Committed to Sir <hi>Willi<g ref="char:EOLhyphen"/>am Waller</hi> as Commander in chief under the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> of the City of <hi>London.</hi>
+            </p>
+            <p>Gentlemen, I am further commanded to let you know, that they will be wanting in nothing, that may expreſſe their care, not only for the pre<g ref="char:EOLhyphen"/>ſervation of the whole Kingdome, but in particu<g ref="char:EOLhyphen"/>lar for the preſervation of this City of <hi>London,</hi> that hath expreſſed greater affection then ever any City did to a Parliament, or a Kingdom.</p>
+         </div>
+         <div type="speech">
+            <pb n="5" facs="tcp:125110:3"/>
+            <head>
+               <hi>JOHN PYM</hi> Eſquire, His SPEECH.</head>
+            <p>MY Lord MAJOR, and you the reſt of the worthy Citizens of this great City, I am commanded by the Lords and Commons in pur<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of that, which hath been expreſſed by this <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lord in generall, ſo to ſhew you the parti<g ref="char:EOLhyphen"/>cular care, and ſence of every thing that may con<g ref="char:EOLhyphen"/>cerne this City, either in the honour, or in the ſafety of it; And to accquaint you with a Pro<g ref="char:EOLhyphen"/>clamation, that is here in my hand, which they conceive to be very pernitious to you, very full of danger, and to expreſſe a great deal of wrath, and a great deale of deſire of doing great hurt, even the greateſt of all to this City; you ſhall be pleaſ<g ref="char:EOLhyphen"/>ed to heare the Proclamation read, and after it is read, I ſhall then declare to you ſome obſervati<g ref="char:EOLhyphen"/>ons by direction of both Houſes of Parliament, which they make; and afterwards I ſhall offer to you ſomewhat that may be by way of Remedy and prevention of great miſchiefes which this Proclamation is likely to bring upon you, that it may not have that effect which your enemies, and the enemies of the Kingdom do deſire.</p>
+         </div>
+         <div type="proclamation">
+            <pb n="6" facs="tcp:125110:4"/>
+            <head>
+               <hi>
+                  <g ref="char:leaf">❧</g> By the King. A Proclamation prohibiting from henceforth all entercourſe of Trade between Our city of</hi> Lon<g ref="char:EOLhyphen"/>don <hi>and other parts of this Our Kingdom, untill other direction given by Us.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas out of our tender care to Our City of <hi>London,</hi> and in hope to re<g ref="char:EOLhyphen"/>duce them to their due obedience to Vs, We by Our Proclamation, bea<g ref="char:EOLhyphen"/>ring date at Our Court at <hi>Oxford</hi> the <hi>8.</hi> day of December now laſt paſt, did Declare Our Royall pleaſure to be, That there ſhould be no ſtop or in<g ref="char:EOLhyphen"/>terruption to any of our loving Subjects, as they ſhould travell to our City of <hi>London</hi> with any Cloathes, Wares, or Merchandize, but that they ſhould freely and peaceably paſſe without any let, trouble, or molestation whatſoever; Which grace and favour unto them, hath in theſe many Months wrought this contrary effect, That above all other parts of this our kingdom, a prevalent faction of that City (which over-rules the whole) hath ſo far joy<g ref="char:EOLhyphen"/>ned with, and in that horrid rebellion, that it hath denounced war againſt the whole kingdom, by vio<g ref="char:EOLhyphen"/>lent oppoſing all the poſsible wayes to peace; and ſo that City formerly famous for their loyalty and love
+<pb n="7" facs="tcp:125110:4"/>to their Soveraigns, is now become the head of that traiterous faction, and the receptacle of all ſuch as are diſaffected to our Government, and the Laws of the Kingdom; and not only willingly conſents and ſubmits to all burthens and impoſitions layed upon them for the ſupport and maintenance of the rebellious Armies raiſed againſt Vs, but malici<g ref="char:EOLhyphen"/>ouſly proſecutes and purſues all ſuch who are but ſuſpected to wiſh well to Our ſervice. And when We pittying the deſperate and deplorable condition of Our People, were graciouſly pleaſed to deſire a Treaty for an Accommodation, and propounded that whileſt that Treaty ſhould continue, there might be a ceſſation of Arms, and a free Commerce for all Our loving Subjects in all the parts of Our Kingdom, that ſo the benefits of Trade and Com<g ref="char:EOLhyphen"/>merce being enjoyed, Our good People might be the more in love with Peace; yet this motion thus pro<g ref="char:EOLhyphen"/>ceeding from Vs, was nevertheleſſe by ſpeciall in<g ref="char:EOLhyphen"/>citation from the city of <hi>London,</hi> (which by the Grace of Our ſaid Proclamation enjoyed the ad<g ref="char:EOLhyphen"/>vantage of the whole Trade of the Kingdom) ſcornfully neglected by the Enemies of Peace, and all intercourſe interdicted to Our city of <hi>Oxford,</hi>
+               <pb n="8" facs="tcp:125110:5"/>the preſent place of Reſidence for Our Court and Army, and that reſtraint is continued upon all thoſe who are thought to be ſerviceable, or but well-affected to Vs: We therefore being thereunto enforced out of this neceſſity, and finding that the Trade and Commerce of the Kingdom, which ought to be maintained for the publique benefit of all our good people, is by this means inverted onely for the advantage of thoſe Places, and Perſons which cheriſh this Rebellion, the Goods and Merchandize of ſuch who are thought well-affected to Vs <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ng ſeiſed when they are brought to <hi>Londo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thought it fit and reaſonable to revoke <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that Our former Act of Grace and <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> this Our Proclamation, We do publiſh <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> De<g ref="char:EOLhyphen"/>clare to all Our Subiects, That whoſoever of them, either in their Perſons ſhall from henceforth travell unto our city of <hi>London,</hi> without Li<g ref="char:EOLhyphen"/>cenſe from our Self, <hi>or</hi> one of our Principall Secre<g ref="char:EOLhyphen"/>taries of States, the Generalls, <hi>or</hi> Lieutena<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>-Generalls of our Armies, <hi>or</hi> the Governours of any our Towns, Caſtles, <hi>or</hi> Forts, <hi>or</hi> with their Goods, cattle, Victuall, <hi>or</hi> Merchandize of any ſort what<g ref="char:EOLhyphen"/>ſoeover, ſhall from henceforth travell unto, <hi>or</hi> for
+<pb n="9" facs="tcp:125110:5"/>our ſaid city of <hi>London or</hi> ſuburbs thereof, with<g ref="char:EOLhyphen"/>out our expreſſe Licenſe for the ſame under our Signe Manuall, ſhall adventure the ſame at their own perills, We being reſolved by all poſſible means to ſeize the ſame; And that all thoſe who from any parts of this our Kingdom ſhall furniſh <hi>or</hi> ſerve our ſaid city of <hi>London, or</hi> ſuburbs thereof, either by ſea or land, with any Victualls, <hi>or</hi> other Proviſions, <hi>or</hi> with any Merchandize to maintain them <hi>or</hi> their Trade, as long as they ſhall thus obſtinately ſtand out in Rebellion againſt Vs, VVe ſhall eſteem as perſons diſaffected to Vs, and to our Government, and as Ayders and Aſſiſters to the Rebells, and ſhall accordingly deal with them, and proceed againſt them; And that this reſtraint ſhall continue upon them untill ſuch time as the Inhabitants of the ſaid city, finding their Errors, ſhall return to their due Obedience unto Vs, ſtraitly commanding all the officers of our Armies, and all other our officers, Miniſters, and loving ſubjects, in all places through which any perſons, Goods, cattle, Victuall <hi>or</hi> Merchandize, ſhall paſſe <hi>or</hi> be conveyed towards the ſaid city of <hi>London,</hi> to apprehend the perſons, and ſeize and
+<pb n="10" facs="tcp:125110:6"/>detain the Goods, untill upon ſpeedy notice to Vs they ſhall receive our farther directions; VVe hereby aſſuring them, they ſhall receive part of ſuch Goods ſo ſeized in ſatisfaction and for their reward. But for the continuing of the generall Trade and commerce of the Kingdom, and the Ma<g ref="char:EOLhyphen"/>nufactures thereof (which we deſire to uphold and advance) VVe leave all Our ſubjects to Trade freely in, and unto all other parts, and in and un<g ref="char:EOLhyphen"/>to all other Ports, or Harvens of this our King<g ref="char:EOLhyphen"/>dom, not being in actuall Rebellion againſt Vs; and from thoſe ports to Trade with their Merchan<g ref="char:EOLhyphen"/>dize freely into any other parts whereſoever be<g ref="char:EOLhyphen"/>yond the ſeas, being in amity with Vs, without any reſtraint whatſoever.</p>
+            <closer>
+               <dateline>Given under Our Signe Manuall at Our Court at <hi>Oxford</hi> 
+                  <date>this Seventeenth day of Iuly, in the Nineteenth yeer of Our Reigne.</date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+         <div type="response_to_proclamation">
+            <head>AFter the Proclamation was read, <hi>Mr. Pym</hi> ſpake as followeth:</head>
+            <p>My Lord, and theſe worthy Gentlemen, you have heard this Proclamation read, there is no man but in the very hearing of it, muſt needs ap<g ref="char:EOLhyphen"/>prehend that it is very contrary, not onely to the
+<pb n="11" facs="tcp:125110:6"/>wealth and profit of the City, but to the Peace and Safety of it; This in generall I doubt not doth appear to every one of you.</p>
+            <p>I am commanded to make you ſome particular Obſervations: The firſt that I ſhall preſent to you is this, That in this Proclamation there are terms of great aſperſion, of great Infamy, put upon ſome Actions of the City, which actions in them<g ref="char:EOLhyphen"/>ſelves are not only warrantable, and very lauda<g ref="char:EOLhyphen"/>ble, but ſuch as will be evidences of your vertue, of your piety, of your honour, to the preſent age, and Monuments of all to the future age; you are here in reſpect of that obedience which you have ſhown to the two Houſes of Parliament, in reſpect of that fidelity which you have ſhown to to the State, in defending the Parliament from violence of the War that is raiſed up againſt them: you are here called Traitours, nay to be the head of a great Rebellion, to be the Fomentors of it, This action of yours, ſo full of Honour, of Ju<g ref="char:EOLhyphen"/>ſtice, and of Duty, is now repreſented here in theſe odious terms: that is the firſt.</p>
+            <p>Another action of yours which is repreſented here in very odious termes is this; That you have been ready by the valour, and by the dilligence of the Citizens, to ſuppreſſe Mutinies, and Re<g ref="char:EOLhyphen"/>bellions, and Inſurrections, and Violence, in your Neighbour and adjacent Counties here, and this is called a making War againſt the whole King<g ref="char:EOLhyphen"/>dome; being an action very full of honor in you,
+<pb n="12" facs="tcp:125110:7"/>and very full of good care of the publique peace; yet it is here odiouſly repreſented.</p>
+            <p>The third is this: That you have given ſafety and protection here, (by the good Government of the City) to many that could find no ſafety in the Countrey, Miniſters, and others, and for this worke of Charity, of Honour, of publick good, you are repreſented here to be a Den, a Recepta<g ref="char:EOLhyphen"/>cle of Rebells, and Traitours: Theſe particulars are upon the firſt head, that your actions, that are vertuous and honourable, and worthy both of preſent thankes, and of future remembrance, to the honour of the City, they are hore repreſented after an odious manner.</p>
+            <p>The ſecond Obſervation that I ſhall make to you is this; That ſome actions of the Kings, that are here repreſented to you with a face of Favour and of Grace, were yet in themſelves ſuch as would have been either fruitleſſe to you, or would have been full of danger both to you, and to the whole Kingdom.</p>
+            <p>The firſt is this: That Proclamation that there ſhould be a free Trade from all parts of the king<g ref="char:EOLhyphen"/>dome to this City, it hath a face of much Grace, but it was in a great manner fruitleſſe: for not<g ref="char:EOLhyphen"/>withſtanding this Proclamation, divers Carriers were robbed, not onely of private mens goods, but of the good; of the Kingdome; even thoſe Proviſions that were ſent for <hi>Ireland,</hi> they were taken away: that is the firſt thing.</p>
+            <pb n="13" facs="tcp:125110:7"/>
+            <p>An other thing that is repreſented unto you, as a matter of great Grace, is, That the King was pleaſed to deſire a Treatie for an Accommodaton: A Treaty indeed was deſired, but there have no evidenſes been given, that wee can beleive that an Accom<g ref="char:EOLhyphen"/>modation was indeed deſired, for though Committees weer ſent, though ſuch propoſi<g ref="char:EOLhyphen"/>toins were offered, as were full of Honour, and ſecuritie to the King, and yet did afford the Subject alſo, reſonable ſecuritie and ſafety in enjoying Religion, and liberties, (which they ought to deſire) they were refuſed, the Trea<g ref="char:EOLhyphen"/>ty was deſired, which would have been a ſnare to you, which would have withdrawne the hearts of the People from you, &amp; your abilities from the Parliament, of raiſing ſuch ſtrength as was neeſſary: The Treaty was deſired in<g ref="char:EOLhyphen"/>deed, but if the Accommodation it ſelfe had been deſired, wee might have expected a betrer Anſwer to the Propoſitions that were made.</p>
+            <p>A third thing is this, it was repreſented, that a Ceſſation was propounded, that there might have beene a free Trade to <hi>Oxford,</hi> ud<g ref="char:EOLhyphen"/>der which all proviſions of Munition, Armes, and money might be ſent thither to ſtrength<g ref="char:EOLhyphen"/>en your enimies againſt you: And yet this here hath put on a diſguiſe of favour, and of grace to you.</p>
+            <pb n="12" facs="tcp:125110:8"/>
+            <p>This is the ſecond Head, that as your Acti<g ref="char:EOLhyphen"/>ons, that are good, are repreſented in an odi<g ref="char:EOLhyphen"/>ous forme, ſo thoſe actions which are hurtfull and prejuditall to you, they are repreſented to you in a gratious forme. That is the ſecond Obſervation uppon this.</p>
+            <p>The third obſervation, that though you have had many evidences of wrath, and of re<g ref="char:EOLhyphen"/>venge, that have bin expreſs'd againſt you, you have been intended as a prey to both armies, when they were invited to come up againſt the Parliament; you were that that gave hope to the Kings army by ſuch a ſudden and haſty march to ſurprize the Citie, that they might have had the ſpoile of it. Though you have had a Conſpiracy here among you, which would have thruſt your ſwords mutually in one ano<g ref="char:EOLhyphen"/>thers ſides, which would have filled this City with bloud; yet in this Proclamation there is ſomewhat of wrath againſt this City expreſ<g ref="char:EOLhyphen"/>ſed, beyond all thoſe; here you ſee is a reſtraint of all trade, no proviſions, or merchandize, muſt goe out from you, or muſt come to you, this will neceſſari<g ref="char:EOLhyphen"/>ly (if it ſhould take effect) introduce a famine, a want even of bread amongſt you, it will in<g ref="char:EOLhyphen"/>troduce a generall poverty becauſe your han<g ref="char:EOLhyphen"/>dy-crafts, they will have no vent for their commodities, yea the merchandize and ma<g ref="char:EOLhyphen"/>nufactures of the Kingdome, they will be at a
+<pb n="13" facs="tcp:125110:8"/>ſtop, and ſo not only the City, but the Coun<g ref="char:EOLhyphen"/>trey will be exceedingly diſtemper'd with it; Farmers will not be able to pay their rents; the Gentry and Nobility will be brought into as neceſſitous a condition as the reſt, becauſe they will bee able to make nothing of their owne, and this generall neceſſitie can not bee avoyded: it will alſo put you into a generall combuſtion, becauſe the poore will riſe, and rich be made poore, and none ſhall know his friendes, and we ſhall e<g ref="char:EOLhyphen"/>ven fight for a morſell of bread, which God (I hope) will avert. Theſe are the miſcries which this Proclamation will bring uppon you, which in many things exceedes the for<g ref="char:EOLhyphen"/>mer: For firſt, it is more generall, in that it comprehendeth all, in the former notice was taken of ſome that were well affected, &amp; ſome ill affected, one part would have ſcaped, thoſe that they thought well-affected, and termed the Kings friends: but here thoſe that they ſay are well aſſected, and thoſe they ſay are ill a<g ref="char:EOLhyphen"/>ffected, will be joyned together (if this Pro<g ref="char:EOLhyphen"/>clamation take effect) in the miſchiefe it will produce: therfore in that reſpect it exceedeth all the former: And in divers other reſpects, For it doeth extend not only to a moment, to have beene acted in a night, as that would have done, but this will be a durable evill and miſchiefe, which will not be recovered to the
+<pb n="13" facs="tcp:125110:9"/>Kingdome in many ages, being likely ta brirg an univerſall deſolation uppon the Kingdome.</p>
+            <p>This I am commanded to repreſent to you, as that which is intended for a great miſcheife but through the bleſſing of God, if you take a riſe from henſe, to doe that which which you have hitherto ſhewed yur ſelves very forward to doe that which is intended for univerſall miſcheife, to bring perpetuall miſery and de<g ref="char:EOLhyphen"/>ſolation upon the Citty, it may be a meanes of procuring for you not only peace and ſafe<g ref="char:EOLhyphen"/>ty, but eternall honour, that is this, that ſince your trade is to be interrupted, you will have many men will not have wherewith to employ their hands, nor wherewith to fill their bellies, that now you will ſet them all upon the work; that before this miſery and deſolation come upon the Kingdome, you'l raiſe all the forces you can, for it is force muſt doe it, You fee there is a Commander provi<g ref="char:EOLhyphen"/>ded for you, ſo you ſee you have all incou<g ref="char:EOLhyphen"/>ragements that can bee from the Houſes of Parliament. That now you'l improve the time, and raiſe all the forces you can, that may remove the fountaine, and goe to the root of all your miſeries, that may be ſuch a force as may bee applicable to the ſeverall dangers of your ſelves and Kingdome; Your Enemies you ſee are very diligent, they ſtirre up one another, and combine one with ano<g ref="char:EOLhyphen"/>ther;
+<pb n="15" facs="tcp:125110:9"/>and I have here in my kand, an exami<g ref="char:EOLhyphen"/>nation to acquaint you with taken beyond Seas, wherein all that would come in, and give any money for the reliefe of the Catho<g ref="char:EOLhyphen"/>liques in <hi>England,</hi> they ſhould come in; this was done in <hi>Flanders;</hi> ſo they make it the ge<g ref="char:EOLhyphen"/>nerall cauſe of all the Papiſts in <hi>England;</hi> let us that are of the true Religion, that are of one and the ſame Country, let us unite our ſelves, with all our ſtrength and meanes to defend our Religion, and to defend our Liberties and to defend the publique ſafetie, as our Ene<g ref="char:EOLhyphen"/>mies unite themſelves, and combine, and ſtirre up one another, to doe that which may overthrow and deſtroy all; This is com<g ref="char:EOLhyphen"/>mended to you from both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, You have expreſs'd ſuch affections here<g ref="char:EOLhyphen"/>tofore, that we cannot doubt that wee ſhall faile in this; There is ſomewhat elſe that will be ſaid to you by another Gentleman, which are the expreſſions of Your Citie, in ſome par<g ref="char:EOLhyphen"/>ticulars, which will be repreſented to you, and I ſhall leave that part to him; I ſhall end here, hoping that you'l make a good uſe of this ad<g ref="char:EOLhyphen"/>monition, to ſtirre up your ſelves to prepare all the force you can that you may joyne to<g ref="char:EOLhyphen"/>gether, under ſuch Commanders as are ap<g ref="char:EOLhyphen"/>pointed to you to doe the work, and to reſtore your ſelves to peace and ſafety in as ſhort a time as may be, leaſt you be conſumed.</p>
+         </div>
+         <div type="text">
+            <pb n="16" facs="tcp:125110:10"/>
+            <head>THE EXAMINATION OF <hi>HENRY MAYO.</hi>
+            </head>
+            <p>VVHo ſaith, that on Thurſday laſt being the twentieth of <hi>July</hi> one thouſand ſixe hundred fourty three, he being at <hi>Bridges</hi> in <hi>Flanders,</hi> heard proclamation made in <hi>Dutch,</hi> (who under<g ref="char:EOLhyphen"/>ſtands it very well) that all people within that Citty, that would goe to the Govern<g ref="char:EOLhyphen"/>ours houſe, and give any money to maintain the <hi>Romane</hi> Catholiques in <hi>England,</hi> they ſhould have theire money repaid them againe in a yeares time, with many thankes.</p>
+            <closer>
+               <signed>HENRY MAYO.</signed>
+This Examination was taken before us
+<signed>
+                  <list>
+                     <item>EDWARD BOYCE.</item>
+                     <item>IOHN BOYCE.</item>
+                     <item>GEORGE TROTTER.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="17" facs="tcp:125110:10"/>
+            <head>HENRY MARTIN <hi>Collonell,</hi> His Speech.</head>
+            <p>MY Lord <hi>Maior,</hi> and you worthy Gen<g ref="char:EOLhyphen"/>tlemen of this Honourable Citie, the principall cauſe why this meeting was deſir'd, was to communicate unto you, a Petition of many thouſands of well affected perſons of this Citie, and other parts of the Kingdome, that Petition it did repreſent the groanes of the people under this tedious and deſtructive warre, it did deſire that now at laſt a ſpeedy end, (by Gods bleſſing) might be put unto it, it did deſire that for that purpoſe, a Committee might be appointed to receive contributions, and liſt and diſpoſe of men, for a preſent army under the conduct of ſuch a Commander, as was fit to be truſted, to bee employed for the reſtraint of the Common E<g ref="char:EOLhyphen"/>nemy. This Committee hath met, hath conſi<g ref="char:EOLhyphen"/>dered of this Noble
+<note n="*" place="margin">Meaning Sir <hi>VVilliam VValler.</hi>
+               </note> Gentleman, for a Com<g ref="char:EOLhyphen"/>mander in chife over thoſe forces, hath pre<g ref="char:EOLhyphen"/>ſented him to both Houſes of Parliament, and you have heard, they have approved of their choice; I need not commend the cauſe to you, it is Gods, it is your owne, I think I need not commend the Gentleman to you, you have cauſe to truſt him; I am to commend that work unto you, a work which the Houſe of Commons conceives to bee the onely hope<g ref="char:EOLhyphen"/>full
+<pb n="18" facs="tcp:125110:11"/>meanes under God to preſerve our Reli<g ref="char:EOLhyphen"/>gion, our Lawes, our Liberties, and that which is left of our eſtates; They conceive that if there ſhall be a generall and unanimous riſing of the people both in this Citie, and in other parts of the Kingdome, it will take downe the partition wall betwixt well-affected, and ill-affected; Your enemies will ſpare none of you, their bullets doe not diſtinguiſh you, they would ſtarve you all. It is deſir'd you would all joyne in ſaving your ſelves, if it pleaſe you to give your beſt aſſiſtance and furthe<g ref="char:EOLhyphen"/>rance, to that work under the hands of that Comittee, I preſume they will be very faith<g ref="char:EOLhyphen"/>full, and they have beene very dilligent in the worke, but certainly I am of opinion, that ei<g ref="char:EOLhyphen"/>ther you muſt goe forth all, and meete the Ememy as Vaſſalls with Ropes about your neckes, or like men with ſwordes in your handes.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>
+                  <hi>IOHN WHITE. July.</hi> 31. 1643.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>
+               <hi>This is Licenced according to an Order of PARLIAMENT.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
